@@ -66,6 +66,11 @@ tags_raw:
 image: https://raw.githubusercontent.com/api-evangelist/observo-ai/refs/heads/main/apis.yml
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/sentinelone/
+  name: SentinelOne
+  x-relationship: acquired
+  x-evidence: "Founded to tame the roughly 35% annual growth of security and observability data, the company was backed by Lightspeed Venture Partners and was subsequently acquired by SentinelOne, where the technology now ships as Singularity AI Data Pipe"
 - type: Website
   url: https://www.sentinelone.com/platform/data-pipelines/
 maintainers:
